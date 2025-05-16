@@ -1,0 +1,2 @@
+# SnapScale-image-resizer-pdf-converter
+SnapScale - Free Online Image Resizer, Compressor &amp; Editor | JPEG, PNG, WebP, PDF Converter Tool - Resize, Crop &amp; Download Photos Without Losing Quality Resize, compress, crop &amp; edit images online with SnapScale – the ultimate free tool for JPG, PNG, WebP &amp; PDF conversion. No quality loss, no watermark, fully responsive &amp; mobile-friendly. 
